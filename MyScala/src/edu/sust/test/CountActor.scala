@@ -10,6 +10,9 @@ class CountActor extends Actor {
     while (true) {
       receive {
         case MyCount(name, money, sex) => println(name + " is saving money: " + money + " ," + name + " is " + sex)
+          val act1 = new MyActor
+          act1.start()
+          act1 ! "Hi"
       }
     }
   }
