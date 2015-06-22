@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyScala/MyScala.iml" filepath="$PROJECT_DIR$/MyScala/MyScala.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScalaTest.iml" filepath="$PROJECT_DIR$/ScalaTest.iml" />
     </modules>
   </component>
