@@ -26,8 +26,10 @@ object MyActor {
         }
       }
     }
-
-    act1.start();
-    act1 ! "Hi"
+    val act3 = new CountActor;
+    act3.start();
+    act3 ! new MyCount("Bob", 20, "男")
+    //act1.start();
+    //act1 ! "Hi"
   }
 }
