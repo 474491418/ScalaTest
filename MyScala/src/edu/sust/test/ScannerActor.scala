@@ -30,13 +30,8 @@ object ScannerActor {
         }
       }
     }
-    //    while (true) {
-    //      var sc: Scanner = new Scanner(System.in);
-    //      println("请输入")
-    //      val messageIn = sc.nextLine();
-    //      sca ! messageIn;
-    //
-    //    }
+
+
     sca ! "Hi"
     sca ! 1
     sca ! "Hi"
