@@ -23,6 +23,7 @@ object MyActor {
       while (true) {
         receive {
           case "Hello" => println("Hello you")
+          case number => print(number)
         }
       }
     }
