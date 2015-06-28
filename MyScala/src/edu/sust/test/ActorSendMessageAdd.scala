@@ -18,6 +18,7 @@ object SendMessageStyle {
       var continue = true
       var sum = 0
       loopWhile(continue) {
+        //react在while中会死循环，所以只能用loop或者loopWhile什么的
         reactWithin(500) {
           case number: Int => sum += number
           case TIMEOUT =>
