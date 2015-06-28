@@ -5,6 +5,7 @@ import scala.actors.TIMEOUT
 
 /**
  * Created by envy15 on 2015/6/28 0028.
+ * 以消息传递为核心的设计：使用Actor的actor方法，使用不可变对象，不考虑数据共享问题，以消息传递为设计核心。
  */
 class ActorSendMessageAdd {
 

@@ -3,7 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="30cc53f9-03bc-48b0-9685-cd63d54b1489" name="Default" comment="to change">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/MyActor$$anonfun$1$$anonfun$apply$mcV$sp$1.class" afterPath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/MyActor$$anonfun$1$$anonfun$apply$mcV$sp$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/MyActor$$anonfun$1.class" afterPath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/MyActor$$anonfun$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/MyActor$$anonfun$act$1.class" afterPath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/MyActor$$anonfun$act$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/MyActor$.class" afterPath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/MyActor$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/MyActor.class" afterPath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/MyActor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/ScannerActor$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/ScannerActor$$anonfun$main$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/ScannerActor$.class" afterPath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/ScannerActor$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/SendMessageStyle$$anonfun$1$$anonfun$apply$mcV$sp$2$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/SendMessageStyle$$anonfun$1$$anonfun$apply$mcV$sp$2$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/SendMessageStyle$$anonfun$1$$anonfun$apply$mcV$sp$2.class" afterPath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/SendMessageStyle$$anonfun$1$$anonfun$apply$mcV$sp$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/SendMessageStyle$$anonfun$1.class" afterPath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/SendMessageStyle$$anonfun$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/SendMessageStyle$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/SendMessageStyle$$anonfun$main$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/SendMessageStyle$.class" afterPath="$PROJECT_DIR$/out/production/MyScala/edu/sust/test/SendMessageStyle$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyScala/src/edu/sust/test/ActorCaseClassTest.scala" afterPath="$PROJECT_DIR$/MyScala/src/edu/sust/test/ActorCaseClassTest.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyScala/src/edu/sust/test/ActorSendMessageAdd.scala" afterPath="$PROJECT_DIR$/MyScala/src/edu/sust/test/ActorSendMessageAdd.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ScalaTest.iws" />
@@ -43,10 +55,22 @@
       <file leaf-file-name="ScannerActor.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyScala/src/edu/sust/test/ScannerActor.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="1404">
-              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1269">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="36" selection-end-column="14" />
               <folding>
                 <element signature="e#23#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActorCaseClassTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyScala/src/edu/sust/test/ActorCaseClassTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1404">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+              <folding>
+                <element signature="e#23#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,9 +89,11 @@
       <file leaf-file-name="ActorSendMessageAdd.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MyScala/src/edu/sust/test/ActorSendMessageAdd.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.064935066" vertical-offset="402" max-vertical-offset="1269">
-              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-              <folding />
+            <state vertical-scroll-proportion="-1.5256125" vertical-offset="874" max-vertical-offset="1323">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding>
+                <element signature="e#23#50#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,6 +133,7 @@
         <option value="$PROJECT_DIR$/MyScala/src/edu/sust/test/SelfTest.scala" />
         <option value="$PROJECT_DIR$/MyScala/src/edu/sust/test/MyActor.scala" />
         <option value="$PROJECT_DIR$/MyScala/src/edu/sust/test/ScannerActor.scala" />
+        <option value="$PROJECT_DIR$/MyScala/src/edu/sust/test/ActorCaseClassTest.scala" />
         <option value="$PROJECT_DIR$/MyScala/src/edu/sust/test/ActorSendMessageAdd.scala" />
       </list>
     </option>
@@ -230,7 +257,7 @@
       <recent name="F:\intellij pro\ScalaTest\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScannerActor">
+  <component name="RunManager" selected="Application.ActorCaseClassTest">
     <configuration default="false" name="TestTrait" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -311,6 +338,28 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="edu.sust.test.SendMessageStyle" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyScala" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ActorCaseClassTest" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="edu.sust.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="edu.sust.test.ActorCaseClassTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -615,18 +664,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.TestTrait" />
       <item index="1" class="java.lang.String" itemvalue="Application.MyActor" />
       <item index="2" class="java.lang.String" itemvalue="Application.ScannerActor" />
       <item index="3" class="java.lang.String" itemvalue="Application.SendMessageStyle" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ActorCaseClassTest" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.ScannerActor" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MyActor" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SendMessageStyle" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestTrait" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.ActorCaseClassTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ScannerActor" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MyActor" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SendMessageStyle" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestTrait" />
       </list>
     </recent_temporary>
   </component>
@@ -651,7 +702,7 @@
       <workItem from="1435027597553" duration="621000" />
       <workItem from="1435030536168" duration="110000" />
       <workItem from="1435473963966" duration="166000" />
-      <workItem from="1435474257487" duration="1423000" />
+      <workItem from="1435474257487" duration="3760000" />
     </task>
     <task id="LOCAL-00001" summary="to change">
       <created>1434945469996</created>
@@ -695,11 +746,17 @@
       <option name="project" value="LOCAL" />
       <updated>1435475676172</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="to change">
+      <created>1435477930145</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1435477930145</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18229000" />
+    <option name="totallyTimeSpent" value="20566000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -723,7 +780,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="0" width="1534" height="826" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994187" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -814,7 +871,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="1269">
           <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding />
+          <folding>
+            <element signature="e#23#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -864,7 +923,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="1269">
           <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding />
+          <folding>
+            <element signature="e#23#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1098,19 +1159,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyScala/src/edu/sust/test/ScannerActor.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="1404">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1269">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="36" selection-end-column="14" />
           <folding>
             <element signature="e#23#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MyScala/src/edu/sust/test/ActorCaseClassTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1404">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <element signature="e#23#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MyScala/src/edu/sust/test/ActorSendMessageAdd.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.064935066" vertical-offset="402" max-vertical-offset="1269">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding />
+        <state vertical-scroll-proportion="-1.5256125" vertical-offset="874" max-vertical-offset="1323">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#23#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

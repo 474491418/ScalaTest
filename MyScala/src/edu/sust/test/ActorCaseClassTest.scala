@@ -5,6 +5,8 @@ import scala.actors.Actor._
 
 /**
  * Created by envy15 on 2015/6/28 0028.
+ *
+ * 以共享数据为核心的设计：构建由Actor继承共享数据操作类，以共享数据为核心。
  */
 
 object ActorCaseClassTest {
